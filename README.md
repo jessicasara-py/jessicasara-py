@@ -1,9 +1,7 @@
-Hi 🙋‍♀️
+👋 Hi, I'm a software development student at Masterschool.
 
-I´m Jessica and in order to be a devolper I am learning all about
+💻 I'm currently building my skills in software development and learning new technologies every day.
 
-- Python
-- HTML/CSS
-- Linux
+🚀 I enjoy solving problems, building projects, and turning ideas into code.
 
-How to reach me: j.saratoff@gmail.com
+📚 Always learning. Always building.
